@@ -33,8 +33,8 @@ you better, and so that you are sure that your really want to be part of the
 community.
 
 Complete the <a href="/membership/MembershipAgreement.pdf"
-target="_blank">form</a> and pass it to any memberYou need two members to
-support your application.  Then, transfer funds, by doing a direct bank
+target="_blank">form</a> and pass it to any member. You need two members to
+support your application. Then, transfer funds, by doing a direct bank
 transfer to the Hackerspace.SG Standard Chartered bank account:
 
 	Bank code: 7144
@@ -43,21 +43,25 @@ transfer to the Hackerspace.SG Standard Chartered bank account:
 
 The account name should be Hackerspace.SG Pte. Ltd. and the bank code is
 scblsgsgxxx (which is the swift code). Once you have the right bank code the
-branch code of `057` should display on your clumsy Singapore Internet banking
-interface.
+branch code of `057` should display on your internet banking interface.
 
-Honestly, the painless way is to use Paypal to enter a regular monthly
+Another painless way is to use Paypal to enter a regular monthly
 subscription.  Please note that fees levied by Paypal will be absorbed by you.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick"><br>
-<input type="hidden" name="hosted_button_id" value="6YY74YT8UKT9E"><p></p>
-<select name="os0">
-<option value="Irregular">Irregular hacker : $67.12SGD – monthly</option>
-<option value="Regular">Regular : $133.72SGD – monthly</option>
-<option value="Hotdesker">Hotdesker : $266.91SGD – monthly</option>
-<option value="Resident">Resident : $533.30SGD – monthly</option>
-<p><input type="hidden" name="currency_code" value="SGD"><br>
-<input type="image" alt="PayPal — The safer, easier way to pay online." name="submit" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif"><br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="6YY74YT8UKT9E">
+<table>
+<tr><td><input type="hidden" name="on0" value="HackerspaceSG monthly membership">HackerspaceSG monthly membership</td></tr><tr><td><select name="os0">
+	<option value="Regular">Regular : $128.00 SGD - monthly</option>
+	<option value="Youth/Starving hacker">Youth/Starving hacker : $64.00 SGD - monthly</option>
+	<option value="Hotdesker">Hotdesker : $256.00 SGD - monthly</option>
+	<option value="Resident">Resident : $512.00 SGD - monthly</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="SGD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 We reserve the right to reject membership applications for any reason.
