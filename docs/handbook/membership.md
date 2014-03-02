@@ -13,7 +13,7 @@ desk.
 
 ## Regular Member &mdash; $128 SGD monthly
 
-Use any of the open desks. Hang out on the sofas. Keep your crap in a locker (rental applies).
+Hang out on the sofas. Keep your crap in a locker (rental rates applicable).
 Use the workbench. Borrow books from our library. Keep your toys and tools onsite.
 
 ## Irregular Member &mdash; $64 SGD monthly
