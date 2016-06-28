@@ -7,11 +7,11 @@ be a paid member of HSG. This is the best way to contact the HSG community.
 
 # <abbr title="Internet Relay Chat">IRC</abbr>
 
-<irc://irc.freenode.net/hackerspacesg> or [https://hackerspace.sg/chat/](/chat/)
+<irc://irc.freenode.net/hackerspacesg> or <http://hackerspace.sg/chat/>
 
 # Facebook
 
-<https://www.facebook.com/hackerspacesg>
+<https://www.facebook.com/hackerspacesg><br/> <https://www.facebook.com/groups/hackerspacesg/>
 
 # Google+
 

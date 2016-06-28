@@ -15,11 +15,15 @@ green apple, beansprouts, water apple, green mango, guava, slivers of lime
 zest, and shredded ginger bud.
 
 This calendar aggregates the calendar for SGEntrepreneurs, HackerspaceSG,
-Geek/Tech/Dev/Design, TheList.sg, Barcamp and WeBuild.sg. We apologise for the duplication of events as
+Geek/Tech/Dev/Design, TheList.sg, and Barcamp. We apologise for the duplication of events as
 there doesn’t seem to be any other easier way to show you the interesting
 events (excluding HackerspaceSG’s cleaning every Tuesday, of course).
 
-<iframe src="https://www.google.com/calendar/embed?title=Rojak%20Calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kmijr97dtpbmf8a7r2ajgdogu0%40group.calendar.google.com&amp;color=%235229A3&amp;src=mengwong%40hackerspace.sg&amp;color=%23691426&amp;src=6nf1p8b3amg68bvaovgfdluhj0%40group.calendar.google.com&amp;color=%232F6309&amp;src=sgentrepreneurs.sg%40gmail.com&amp;color=%23B1440E&amp;ctz=Asia%2FSingapore&amp;src=84arudvc87kfnrlm7n3vbaoki4%40group.calendar.google.com&amp;src=ugehkq8pugck4d8ton3415n5cialail2@import.calendar.google.com" style=" border-width:0 " width="900" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?title=Rojak%20Calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kmijr97dtpbmf8a7r2ajgdogu0%40group.calendar.google.com&amp;color=%235229A3&amp;src=mengwong%40hackerspace.sg&amp;color=%23691426&amp;src=6nf1p8b3amg68bvaovgfdluhj0%40group.calendar.google.com&amp;color=%232F6309&amp;src=sgentrepreneurs.sg%40gmail.com&amp;color=%23B1440E&amp;ctz=Asia%2FSingapore&amp;src=84arudvc87kfnrlm7n3vbaoki4%40group.calendar.google.com" style=" border-width:0 " width="900" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Other Singapore tech event aggregators
+
+* <http://www.webuild.sg/>
 
 # Hosting Events
 
@@ -48,7 +52,7 @@ To arrange an event:
 	- A good way to do this is usually to post to the [HackerspaceSG Google Group](https://groups.google.com/forum/#!forum/hackerspacesg).
 	- Note that it is not enough to find a member who acknowledges that your event is a good idea; you will need them to agree explicitly towards hosting your event and making the booking request with the event officers.
 	- Wait until your host confirms that they've booked a calendar slot before you invite your guests or announce HackerspaceSG as a venue.
-	- If you are planning to host events on a regular basis, please consider [becoming a member](/membership/).
+	- If you are planning to host events on a regular basis, please consider [becoming a member](http://hackerspace.sg/membership/).
 
 ## Hosting Member
 
@@ -62,7 +66,7 @@ Please don't shirk these responsibilities. Putting other members in the situatio
 
 To host an event:
 
-- Locate a free spot on the [calendar](/calendar/) that is at least a week - preferably somewhat more than a week - from now
+- Locate a free spot on the [calendar](http://hackerspace.sg/calendar/) that is at least a week - preferably somewhat more than a week - from now
 - Email the [events officers](mailto:events@hackerspace.sg) requesting the slot:
 	1. Provide a title for the event
 	1. Provide a preferred date and time (if any) and intended duration of the event
@@ -116,9 +120,9 @@ To host an event:
 
 <a name="1" id="1">1</a>: "[Hacking](http://www.catb.org/jargon/html/H/hacker.html)" meaning ingenuity or playful cleverness, not criminal activity.
 
-<a name="2" id="2">2</a>: We may consider closed events in extraordinary cases, but the answer will almost always be no.
+<a name="2" id="2">2</a>: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
 
-<a name="3" id="3">3</a>: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
+<a name="3" id="3">3</a>: We may consider closed events in extraordinary cases, but the answer will almost always be no.
 
 <a name="4" id="4">4</a>: Please volunteer your undertaking to be host for the event when requesting the booking, rather than putting the events officers in the position of having to press you for it.
 
