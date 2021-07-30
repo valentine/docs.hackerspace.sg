@@ -1,0 +1,15 @@
+arrowParens: always
+bracketSpacing: false
+jsxBracketSameLine: true
+printWidth: 80
+singleQuote: true
+trailingComma: all
+
+overrides:
+  - files: 
+    - "*.md"
+    - "*.mdx"
+    options:
+      # allow 90 character line width for plenum markdown tables
+      printWidth: 90
+      proseWrap: never
