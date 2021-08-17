@@ -1,4 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+
+const sb = require('./src/js/sidebars.js')
+
 module.exports = {
   title: 'docs.hackerspace.sg',
   tagline: 'All the HackerspaceSG docs!',
@@ -110,6 +113,7 @@ module.exports = {
         editUrl:
           'https://github.com/hackerspacesg/docs.hackerspace.sg/edit/main/',
         routeBasePath: 'handbook',
+        sidebarPath: require.resolve('./docs/sidebars.handbook.js'),
         showLastUpdateTime: true,
       },
     ],
@@ -121,7 +125,15 @@ module.exports = {
         editUrl:
           'https://github.com/hackerspacesg/docs.hackerspace.sg/edit/main/',
         routeBasePath: 'plenum',
+        sidebarPath: require.resolve('./docs/sidebars.plenum.js'),
         numberPrefixParser: false,
+        async sidebarItemsGenerator ({
+          defaultSidebarItemsGenerator,
+          ...args
+        }) {
+          const sidebarItems = await defaultSidebarItemsGenerator(args);
+          return sb.popUnshiftItems(sb.reverseSidebarItems(sidebarItems));
+        },
       },
     ],
   ],

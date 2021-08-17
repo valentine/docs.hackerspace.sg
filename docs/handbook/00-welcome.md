@@ -2,6 +2,7 @@
 title: HackerspaceSG Handbook
 sidebar_label: Welcome
 slug: /
+sidebar_position: 0
 ---
 
 * [About HackerspaceSG](about)
