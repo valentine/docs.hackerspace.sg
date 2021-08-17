@@ -1,32 +1,42 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'docs.hackerspace.sg',
+  tagline: 'All the HackerspaceSG docs!',
+  url: 'https://docs.hackerspace.sg',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'hackerspacesg',
+  projectName: 'docs.hackerspace.sg',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'HackerspaceSG',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'HackerspaceSG',
         src: 'img/logo.svg',
       },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
+          to: 'handbook/',
+          activeBasePath: 'handbook',
+          label: 'Handbook',
           position: 'left',
-          label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          to: 'plenum/',
+          activeBasePath: 'plenum',
+          label: 'Plenum',
+          position: 'left',
+        },
+        {
+          href: 'https://github.com/hackerspacesg/docs.hackerspace.sg',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://hackerspace.sg',
+          label: 'Main Site',
           position: 'right',
         },
       ],
@@ -35,11 +45,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'HackerspaceSG',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Home',
+              to: 'https://hackerspace.sg',
             },
           ],
         },
@@ -47,16 +57,13 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Google Group',
+              href:
+                'https://groups.google.com/g/hackerspacesg',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Facebook Group',
+              href: 'https://www.facebook.com/groups/hackerspacesg/',
             },
           ],
         },
@@ -64,38 +71,56 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'GitHub',
+              href: 'https://github.com/hackerspacesg',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Facebook',
+              href: 'https://facebook.com/hackerspacesg',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/hackerspacesg',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Hackerspace.SG Pte Ltd and contributors.`,
     },
   },
   presets: [
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        docs: false,
+        blog: false,
+      },
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'handbook',
+        path: 'docs/handbook',
+        editUrl:
+          'https://github.com/hackerspacesg/docs.hackerspace.sg/edit/main/',
+        routeBasePath: 'handbook',
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'plenum',
+        path: 'docs/plenum',
+        editUrl:
+          'https://github.com/hackerspacesg/docs.hackerspace.sg/edit/main/',
+        routeBasePath: 'plenum',
+        numberPrefixParser: false,
       },
     ],
   ],
