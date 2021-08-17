@@ -52,3 +52,11 @@ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Licences
+
+Copyright (c) 2009 Hackerspace.SG Pte Ltd and contributors.
+
+Code is [licensed under the GNU Affero General Public License (AGPL)](./LICENCE).
+
+Documentation (e.g. `.md` files in the `/docs` folder) is [licensed under the Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) International Licence](./docs-LICENSING).
