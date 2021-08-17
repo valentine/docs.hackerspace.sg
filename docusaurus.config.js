@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'hackerspacesg',
   projectName: 'docs.hackerspace.sg',
   themeConfig: {
+    image: 'img/social.jpg',
     navbar: {
       title: 'HackerspaceSG',
       logo: {
