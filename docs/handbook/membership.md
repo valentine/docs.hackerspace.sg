@@ -1,6 +1,6 @@
-# Join us!
-
-<img src="/imgs/membership_1.jpg" class="img-responsive center-block" style="width:50%" >
+---
+title: Membership
+---
 
 ## Membership Benefits
 
@@ -38,8 +38,6 @@ _Great for: full-time students, NSFs, underemployed, unemployed._
 
 _^ HackerspaceSG is primarily member-run. To promote member involvement and financial inclusivity, you may use the space for more than 9 hours/week if you contribute your time towards HackerspaceSG maintenance duties. Community members should pledge 0.5 hours for every 8 additional hours of space use, and Concessionary members should pledge 1 hour for every 8 additional hours of space use._
 
-<img src="/imgs/membership.jpg" class="img-responsive center-block" style="width:50%" >
-
 ___
 
 ## How do I sign up?
@@ -48,8 +46,7 @@ Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so th
 
 (Please refer to the [best times to visit](#best-times-to-visit) below.)
 
-Complete the <a href="/membership/MembershipAgreement.pdf"
-target="_blank">membership form</a> and pass it to any member. You need two members to support your application.
+Complete the <a href="/membership/MembershipAgreement.pdf" target="_blank">membership form</a> and pass it to any member. You need two members to support your application.
 
 We accept membership payments via direct bank
 transfer to the HackerspaceSG Standard Chartered bank account:
@@ -64,34 +61,14 @@ branch code of `057` should display on your internet banking interface.
 
 We accept PayNow for one-off payments.
 
-<img src="/imgs/paynowqr.png" class="img-responsive center-block" style="max-width: 200px" >
-
 Another painless way is to use PayPal to enter into a monthly
 subscription.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZEEGTJ889KERG">
-<table>
-<tr><td><input type="hidden" name="on0" value="HackerspaceSG monthly membership">HackerspaceSG monthly membership</td></tr><tr><td><select name="os0">
-	<option value="Co-working">Co-working : $256.00 SGD - monthly</option>
-	<option value="Community">Community : $128.00 SGD - monthly</option>
-	<option value="Concessionary">Concessionary : $64.00 SGD - monthly</option>
-	<option value="Dedicated">Dedicated : $512.00 SGD - monthly</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="SGD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
 
 We reserve the right to reject membership applications for any reason.
 
 ___
 
 ## Guests
-<img src="/imgs/membership_2.jpg" class="img-responsive center-block" style="width:50%" >
 
 HackerspaceSG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
 
@@ -114,22 +91,6 @@ ___
 HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month.
 
 Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="Y8P3EHLJGVLYL">
-<table>
-<tr><td><input type="hidden" name="on0" value="Addon subscriptions">Addon subscriptions</td></tr><tr><td><select name="os0">
-	<option value="Address rental">Address rental : $10.00 SGD - monthly</option>
-	<option value="Big locker">Big locker (42cm) : $15.00 SGD - monthly</option>
-	<option value="Small locker">Small locker (28cm) : $10.00 SGD - monthly</option>
-	<option value="Tiny locker">Tiny locker (21cm) : $7.50 SGD - monthly</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="SGD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
 
 ___
 

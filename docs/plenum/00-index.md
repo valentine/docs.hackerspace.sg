@@ -1,4 +1,7 @@
-# Plenums
+---
+title: Plenums
+slug: /
+---
 
 HackerspaceSG plenums are regular meetings for us to exercise democratic decision-making, discuss recent issues and future plans, and resolve internal conflicts.
 

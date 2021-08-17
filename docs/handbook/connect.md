@@ -1,3 +1,7 @@
+---
+title: Connect
+---
+
 # Mailing list
 
 <https://groups.google.com/forum/#!forum/hackerspacesg> &dash; all members **should** join!

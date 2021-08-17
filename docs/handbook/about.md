@@ -1,4 +1,6 @@
-# About HackerspaceSG
+---
+title: About HackerspaceSG
+---
 
 HackerspaceSG is Singapore's very own Hackerspace. 
 
