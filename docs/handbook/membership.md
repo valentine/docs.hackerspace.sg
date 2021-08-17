@@ -1,5 +1,6 @@
 ---
 title: Membership
+description: Support HackerspaceSG with a monthly membership subscription.
 ---
 
 ## Membership Benefits

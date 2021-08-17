@@ -1,5 +1,6 @@
 ---
 title: Connect
+description: How you can connect with the HackerspaceSG community.
 ---
 
 # Mailing list

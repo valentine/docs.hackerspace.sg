@@ -1,5 +1,6 @@
 ---
 title: Plenums
+description: Plenums are where we meet to exercise democratic decision-making, discuss recent issues and future plans, and resolve internal conflicts.
 slug: /
 ---
 

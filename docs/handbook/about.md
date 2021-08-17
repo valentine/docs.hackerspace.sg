@@ -1,5 +1,6 @@
 ---
 title: About HackerspaceSG
+description: An introduction to HackerspaceSG, a community centre for Singapore's tech and maker scenes.
 ---
 
 HackerspaceSG is Singapore's very own Hackerspace. 

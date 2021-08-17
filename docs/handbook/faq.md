@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+description: Frequently asked questions about HackerspaceSG.
 ---
 
 ## I want to learn more about HackerspaceSG. How?

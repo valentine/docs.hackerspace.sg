@@ -1,5 +1,6 @@
 ---
 title: Hosting Events
+description: Hosting tech and maker community events at HackerspaceSG.
 ---
 
 ## COVID-19 measures
