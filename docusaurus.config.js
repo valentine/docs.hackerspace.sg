@@ -61,6 +61,11 @@ module.exports = {
           title: 'Community',
           items: [
             {
+              label: 'Telegram Chat',
+              href:
+                'https://t.me/HackerspaceSG',
+            },
+            {
               label: 'Google Group',
               href:
                 'https://groups.google.com/g/hackerspacesg',

@@ -3,46 +3,47 @@ title: Connect
 description: How you can connect with the HackerspaceSG community.
 ---
 
-# Mailing list
+## Chat
 
-<https://groups.google.com/forum/#!forum/hackerspacesg> &dash; all members **should** join!
+### Telegram
 
-All hackers in or connected to Singapore are welcome to join. You don't need to
-be a paid member of HSG. This is the best way to contact the HSG community.
+* Our [**Telegram group**](https://t.me/HackerspaceSG) is the (new-ish[^1]) main method for members of the public to get in touch with the HackerspaceSG community.
 
-# <abbr title="Internet Relay Chat">IRC</abbr>
+### <abbr title="Internet Relay Chat">IRC</abbr>
 
-<irc://irc.freenode.net/hackerspacesg> or [https://hackerspace.sg/chat/](/chat/)
+* Some of us are still on IRC at [**#hackerspacesg** on Libera.Chat](irc://irc.libera.chat/hackerspacesg). Try one of these clients:
+  * [Matrix](https://matrix.to/#/#hackerspacesg-irc:matrix.org)
+  * [Libera.Chat web client](https://web.libera.chat/#hackerspacesg)
 
-# Facebook
+## Social media {#social}
 
-<https://www.facebook.com/hackerspacesg><br/> <https://www.facebook.com/groups/hackerspacesg/>
+### Twitter
 
-# Google+
+* [@hackerspacesg](https://twitter.com/hackerspacesg)
 
-<https://plus.google.com/u/0/b/102228650709887614357>
+### Facebook
+* [Facebook page](https://www.facebook.com/hackerspacesg), mostly for announcements.
+* [Facebook group](https://www.facebook.com/groups/hackerspacesg/), where you can post discussions and questions about anything that might be of interest to hackers.
 
-# Flickr
+## Email
 
-<a href="https://www.flickr.com/search/?text=hackerspacesg%20OR%20hackersapce.sg&sort=date-posted-desc">View Archives</a>
+* [**Mailing list**](https://groups.google.com/g/hackerspacesg) on Google Groups.
+* Email: contact@hackerspace.sg — but please read the [FAQ](faq) first.
 
-If you are a news organization, please don't bother asking for permission to use pictures of the space. -- License is as indicated on the respective photo's page.
+## (Not so social) media {#media}
 
-# Youtube
+### Photos
 
-<http://www.youtube.com/user/hackerspacesg>
+* [Flickr](https://www.flickr.com/search/?text=hackerspacesg%20OR%20hackersapce.sg&sort=date-posted-desc)
+  * If you are a news organisation, you may use all pictures of the space on Flickr as long as you follow the licence as indicated on the respective photo's page.
 
-# Twitter
+### Videos
 
-<https://twitter.com/hackerspacesg>
+* [YouTube](http://www.youtube.com/user/hackerspacesg) (mostly deprecated)
 
-# Library lending log
+## Code
 
-<http://tinyurl.com/hsglibrary>
+* Most of our active software projects can be found on our [**main GitHub organisation**](https://github.com/hackerspacesg).
+* We also have an [archive organisation](https://github.com/hsgarchive/), because some of us are datahoarders.
 
-# Email HSG
-
-<contact@hackerspace.sg>
-
-but first read the [FAQ](/faq). Or subscribe to the [mailing list](#mailing-list) and post your question there.
-
+[^1]: We really only started publicising it in August 2021.
