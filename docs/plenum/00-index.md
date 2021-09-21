@@ -12,12 +12,13 @@ We aim to meet on the third Tuesday of every month, subject to the availability 
 
 ## Future Planned Plenums
 
-* [2021-08-17](./2021-08-17/)
+* [2021-09-21](./2021-09-21/)
 
 Note that the dates are tentative and subject to change.
 
 ## Past Plenum Minutes
 
+* [2021-08-17](./2021-08-17/)
 * [2021-06-29](./2021-06-29/)
 * [2021-05-25](./2021-05-25/)
 * [2021-04-20](./2021-04-20/)
