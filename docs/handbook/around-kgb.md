@@ -11,15 +11,11 @@ Here are some food places and other amenities around the area.
 
 ## Food
 
-* See also: [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq) and [Michelin Guide Singapore](https://guide.michelin.sg/2016-guide?lang=en&year=2016&areas=Lavender&sort=name)
-
 ### Hawker and street fare
 
 * [Tai Sun Eating House](https://foursquare.com/v/tai-sun-eating-house/4b9f1af9f964a520ef1337e3)
 * [Kopitiam](https://foursquare.com/v/kopitiam/4daf7feb4b22d9b3bcc392c0) at Lavender MRT
-* [Lavender Food Hub](https://foursquare.com/v/lavender-food-hub/542f87d9498ed8c05ceadcd6), where some of the stalls from [the famous Lavender Food Square](http://gssq.blogspot.sg/2014/09/lavender-food-square-where-everyone-is.html) moved to
 * [Cheng Mun Chee Kee](https://foursquare.com/v/cheng-mun-chee-kee-pig-organ-soup-%E6%AD%A3%E6%96%87%E5%BF%97%E8%AE%B0/4b0fb901f964a520586423e3)
-* [Soon Ho Eating House](https://foursquare.com/v/soon-ho-eating-house/4bce8a9ac564ef3bf485eef0) near Jalan Besar Stadium
 * [Beach Road Scissor-Cut Curry Rice](https://foursquare.com/v/beach-road-scissorcut-curry-rice-%E5%89%AA%E5%88%80%E5%89%AA%E5%92%96%E5%93%A9%E9%A3%AF/4b529ebdf964a520218427e3) at Kitchener Road
 * [Swee Choon Tim Sum](https://foursquare.com/v/swee-choon-tim-sum-restaurant-%E7%91%9E%E6%98%A5%E9%BB%9E%E5%BF%83%E6%8B%89%E9%9D%A2%E5%B0%8F%E7%B1%A0%E5%8C%85/4bb610c81344b71318e99c04) along Jalan Besar Road
 * [Hill Street Tai Hwa Pork Noodle](https://foursquare.com/v/hill-street-tai-hwa-pork-noodle-%E5%90%8A%E6%A1%A5%E5%A4%B4%E5%A4%A7%E5%8D%8E%E7%8C%AA%E8%82%89%E7%B2%BF%E6%9D%A1-singapore/4b80b8b3f964a5205a8830e3) and [Happy Chef Western Food](https://foursquare.com/v/happy-chef-western-food/4bc00eec74a9a5937ea7cff6), on the other side of Lavender MRT.
@@ -27,41 +23,27 @@ Here are some food places and other amenities around the area.
 * [Original Serangoon Fried Hokkien Mee](https://foursquare.com/v/original-serangoon-fried-hokkien-mee-singapore/4c1b65aeb9f876b0f21b7a46), at Serangoon Road
 
 ### Fast food
+
 * [McDonald's](https://foursquare.com/v/mcdonalds/557bc110498e1b84b5a61ee4) at Lavender MRT
-* Burger King, Long John Silver's, McDonald's, Pizza Hut, Popeyes and Subway at [City Square Mall](http://www.citysquaremall.com.sg/shops-category.php?type=23)
+* Chic-A-Boo, KFC, McDonald's, MOS Burger, Ordinary Burgers, PastaMania, Pizza Hut, Popeyes, Saizeriya, Stuff'd, Subway, and Wingstop at [City Square Mall](https://www.citysquaremall.com.sg/shops/shop-list/shop-category/food-beverage/)
 
 ### Restaurants
+
 * [Tim Ho Wan](http://www.timhowan.com/) at The Aperia, across Lavender St.
-
-### Desserts
-* [Antoinette](http://antoinette.com.sg/contact.html) at Penhas Road (near Lavender MRT)
-
 
 ## Coffee
 
-* See also: [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?msid=215891290759892097434.0004cceddc3c51a603dc0&msa=0&ll=1.310483,103.86149&spn=0.003282,0.005048)
-
-### Coffee Nearby
+(See also: [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?msid=215891290759892097434.0004cceddc3c51a603dc0&msa=0&ll=1.310483,103.86149&spn=0.003282,0.005048)
 
 * [Chye Seng Huat Hardware](https://www.facebook.com/ChyeSengHuatHardware)
-* [The Coffee Shot](https://www.facebook.com/THECOFFEESHOTTKC)
 * [Tiramisu Hero](http://thetiramisuhero.com/)
-* [The Bravery](http://thebravery.com.sg/)
-* [The Bao Makers](https://www.baomakers.com/home.html)
-
-### Coffee Farby
-
-* [The Coffee Museum](http://nanyangoldcoffee.com/mini-singapore-coffee-museum.html)
-* [Loysel's Toy](http://www.loyselstoy.com/) on the other side of Lavender MRT
-* [Symmetry](http://symmetry.com.sg/) at Jalan Kubor
-* [Maison Ikkoku](http://www.maison-ikkoku.net/) on Kandahar Street
 
 ## Groceries
 
-* [NTUC FairPrice](http://www.fairprice.com.sg/webapp/wcs/stores/servlet/StoreLocatorCmd?storeId=90001&catalogId=10051&storesView=ClusterStores&Corporate=Y&clusterName=SERANGOON) at 808 French Road (towards Lavender MRT station)
-* [Cold Storage](http://www.coldstorage.com.sg/corporate/public/corporate_storelocations.html#coldstorage) at The Aperia, across Lavender St
+* [NTUC FairPrice](https://foursquare.com/v/ntuc-fairprice/521ec08911d28bd06826ec0b) at 808 French Road (towards Lavender MRT station)
+* [Cold Storage](https://foursquare.com/v/cold-storage/5427877c498e82f0e39df292) at The Aperia, across Lavender St
 * [Prime Supermarket](https://foursquare.com/v/prime-supermarket-singapore/4ba1c408f964a52073cb37e3) (24 hours) at 803 King George's Avenue
-* [Sheng Siong](http://www.shengsiong.com.sg/pages/Store-Locator.html) (24 hours) at New World Centre, Jalan Berseh (near Syed Alwi Road)
+* [Sheng Siong](https://foursquare.com/v/sheng-siong-supermarket/4fabc805e4b06a5977404d7f) (24 hours) at New World Centre, Jalan Berseh (near Syed Alwi Road)
 
 ## Printing
 
@@ -79,27 +61,23 @@ Postage can be bought at the SAM machine at Lavender MRT on the concourse
 level, near the DBS ATM.
 
 Closest post office locations:
-1. [Crawford](http://www.street-directory.com/singpost/singpost.cgi?x=373521.5390&y=144085.8737&level=7&star=1&categories=POL&name=Crawford&address_display=Blk%2015%20Beach%20Road%20@01-4685%20|Singapore&opr_hour_display=Mon%20-%20Fri%208.30%20am%20-%205.00%20pm%20|Sat%208.30%20am%20-%201.00%20pm%20|Sun/P.Hol%20Closed&newpostalcode2=190015&phone=&remit=&post=#switchbar), Beach Road, near the Army Market and Golden Mile Food Centre
-2. [City Square Mall](http://www.singpost.com/locate-us?id=2713), 180 Kitchener Rd #B2-33, City Square Mall, Singapore 208539
+1. [Crawford](https://foursquare.com/v/crawford-post-office/4c34a3883ffc95211eee90f5), Beach Road, near the Army Market and Golden Mile Food Centre
+1. [City Square Mall](https://foursquare.com/v/singapore-post/577a09ad498ee32e9b8ac57e), 180 Kitchener Rd #B2-33, City Square Mall, Singapore 208539
 
 Closest POPStation:
-1. [Kitchener Complex](https://www.mypopstation.com/sgselect/P27)
-2. [Aperia Mall](https://www.mypopstation.com/sgselect/S63)
-3. [City Square Mall](https://www.mypopstation.com/sgselect/S25)
-
+1. Kitchener Complex
+1. Aperia Mall
+1. City Square Mall
 
 ## Sports
 
 ### Running track
 
-Just south of the space there is an awesome walkway to the Marina Bay Sands
-Helix bridge. Approximately 7km there and back!
+Just south of the space there is an awesome walkway to the Marina Bay Sands Helix bridge. Approximately 7km there and back!
 
 ### Swimming
 
-[Jalan Besar Swimming
-Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is
-next to the North Entrance of the Jalan Besar Stadium, less than five minutes' walk away. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends.
+[Jalan Besar Swimming Complex](https://www.myactivesg.com/facilities/jalan-besar-swimming-complex) is next to the North Entrance of the Jalan Besar Stadium, less than five minutes' walk away. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends.
 
 The swimming complex is closed when it rains. Call <a href="tel:+6562939058">62939058</a> in advance to ask if they are open. This saves you 10 minutes in case it is closed as a precaution for lightning strikes.
 
