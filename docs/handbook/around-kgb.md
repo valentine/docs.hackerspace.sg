@@ -3,7 +3,7 @@ title: Around The Area
 description: A list of food places and other amenities around King George's Building, near Lavender and Bendemeer MRT stations.
 ---
 
-**HackerspaceSG** is at **344B King George's Avenue, King George's Building**.
+**HackerspaceSG** is at **336D King George's Avenue, King George's Building**.
 
 The closest MRT stations are Lavender MRT (East-West Line) and Bendemeer MRT (Downtown Line). We are also walking distance from Boon Keng MRT and Farrer Park MRT (North-East Line), and Nicoll Highway MRT (Circle Line).
 
