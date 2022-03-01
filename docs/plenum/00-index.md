@@ -4,20 +4,30 @@ description: Plenums are where we meet to exercise democratic decision-making, d
 slug: /
 ---
 
-HackerspaceSG plenums are regular meetings for us to exercise democratic decision-making, discuss recent issues and future plans, and resolve internal conflicts.
+HackerspaceSG plenums are regular meetings for us to get the community involved, discuss recent issues and future plans, gather consensus and feedback for organisational proposals, and resolve internal conflicts.
 
-We aim to meet on the third Tuesday of every month, subject to the availability of key people (i.e. our Treasurer, and the leads of key ongoing projects).
+We aim to meet on the third Tuesday of every month, usually at 8pm SGT, subject to the availability of key people (i.e. the leads for ongoing projects).
 
 (h.t. the [Plenum Pattern](https://wiki.hackerspaces.org/The_Plenum_Pattern) and the [Tuesday pattern](https://wiki.hackerspaces.org/The_Tuesday_Pattern) on the [Hackerspaces Wiki](https://wiki.hackerspaces.org/Hackerspaces).)
 
 ## Future Planned Plenums
 
-* [2021-09-21](./2021-09-21/)
+* 2022-03-15
+* 2022-04-19
+* 2022-05-17
+* 2022-06-14
+* 2022-07-19
+* 2022-08-16
+* 2022-09-20
+* 2022-10-18
+* 2022-11-15
+* 2022-12-20
 
 Note that the dates are tentative and subject to change.
 
 ## Past Plenum Minutes
 
+* [2021-09-21](./2021-09-21/)
 * [2021-08-17](./2021-08-17/)
 * [2021-06-29](./2021-06-29/)
 * [2021-05-25](./2021-05-25/)
