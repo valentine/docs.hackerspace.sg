@@ -8,7 +8,16 @@ HackerspaceSG plenums are regular meetings for us to get the community involved,
 
 We aim to meet on the third Tuesday of every month, usually at 8pm SGT, subject to the availability of key people (i.e. the leads for ongoing projects).
 
-(h.t. the [Plenum Pattern](https://wiki.hackerspaces.org/The_Plenum_Pattern) and the [Tuesday pattern](https://wiki.hackerspaces.org/The_Tuesday_Pattern) on the [Hackerspaces Wiki](https://wiki.hackerspaces.org/Hackerspaces).)
+## Guidelines
+
+* We try to keep plenum duration to an hour, with a hard stop at 2 hours.
+* Due to our tendency to ramble and digress, we're trying to run plenums more like stand-up meetings[^1]. The main information that should be shared are:
+  * The project's current status
+  * Obstacles and blockers, if any
+* To add a new issue to the agenda, please open an issue on GitHub, in either:
+  * our [admin repo](https://github.com/hackerspacesg/admin/issues); or 
+  * the [KGB repo](https://github.com/hackerspacesg/kgb/issues) (for issues surrounding the physical space).
+* We try not to add new items to Any Other Business[^2] _unless_ it's a matter of immediate life-or-death for the space. Preliminary discussion should often begin in [other channels](/handbook/connect/).
 
 ## Future Planned Plenums
 
@@ -58,3 +67,12 @@ Note that the dates are tentative and subject to change.
 * [2014-06-21](./2014-06-21/)
 * [2014-04-03](./2014-04-03/)
 * [2014-02-12](./2014-02-12/)
+
+## References
+
+* Relevant [design patterns](https://wiki.hackerspaces.org/Design_Patterns) from the [Hackerspaces wiki](https://wiki.hackerspaces.org/):
+  * [Plenum Pattern](https://wiki.hackerspaces.org/The_Plenum_Pattern)
+  * [Tuesday Pattern](https://wiki.hackerspaces.org/The_Tuesday_Pattern)
+
+[^1]: [Wikipedia's article on stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)
+[^2]: [Wiktionary's definition on Any Other Business](https://en.wiktionary.org/wiki/any_other_business)
