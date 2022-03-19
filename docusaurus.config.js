@@ -116,7 +116,7 @@ module.exports = {
         id: 'handbook',
         path: 'docs/handbook',
         editUrl:
-          'https://github.com/hackerspacesg/docs.hackerspace.sg/edit/main/',
+          'https://github.com/hackerspacesg/docs.hackerspace.sg/blob/main/',
         routeBasePath: 'handbook',
         sidebarPath: require.resolve('./docs/sidebars.handbook.js'),
         showLastUpdateTime: true,
@@ -128,7 +128,7 @@ module.exports = {
         id: 'plenum',
         path: 'docs/plenum',
         editUrl:
-          'https://github.com/hackerspacesg/docs.hackerspace.sg/edit/main/',
+          'https://github.com/hackerspacesg/docs.hackerspace.sg/blob/main/',
         routeBasePath: 'plenum',
         sidebarPath: require.resolve('./docs/sidebars.plenum.js'),
         numberPrefixParser: false,
