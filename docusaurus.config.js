@@ -13,6 +13,9 @@ module.exports = {
   organizationName: 'hackerspacesg',
   projectName: 'docs.hackerspace.sg',
   themeConfig: {
+    prism: {
+      theme: require('prism-react-renderer/themes/github'),
+    },
     image: 'img/social.jpg',
     navbar: {
       title: 'HackerspaceSG',
