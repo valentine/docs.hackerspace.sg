@@ -49,22 +49,6 @@ Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so th
 
 Complete the <a href="/membership/MembershipAgreement.pdf" target="_blank">membership form</a> and pass it to any member. You need two members to support your application.
 
-We accept membership payments via direct bank
-transfer to the HackerspaceSG Standard Chartered bank account:
-
-	Bank code: 9496
-	Branch code: 057
-	Account Number: 5701304090
-
-The account name is `Hackerspace.SG Pte. Ltd`. and the bank code is
-`scblsgsgxxx` (which is the SWIFT code). Once you have the right bank code the
-branch code of `057` should display on your internet banking interface.
-
-We accept PayNow for one-off payments.
-
-Another painless way is to use PayPal to enter into a monthly
-subscription.
-
 We reserve the right to reject membership applications for any reason.
 
 ___

@@ -11,4 +11,5 @@ sidebar_position: 0
 * [Connect](connect)
 * [Around The Area](around-kgb)
 * [Membership](membership)
+* [Payment Methods](payment)
 * [Hosting Events](hosting-events)
