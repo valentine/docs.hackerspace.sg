@@ -86,14 +86,3 @@ HackerspaceSG will not be held responsible for any loss or damage of personal be
 ### Dealing with Old Hardware
 
 HackerspaceSG implements the [Old Hardware Pattern](/old-hardware/).
-
-## Organizational Form
-
-HackerspaceSG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently two directors.
-
-All finances will be transparently disclosed to the membership.
-
-We intend to operate with a small profit margin.
-
-Any operating surplus will not be distributed to partners or members, but will
-be directed at activities approved by the HackerspaceSG board of directors.

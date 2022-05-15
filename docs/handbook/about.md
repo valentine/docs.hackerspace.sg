@@ -17,3 +17,11 @@ HSG is also Singapore's first co-working space.
 - [RIPE Atlas Probe](https://atlas.ripe.net/probes/14603/) (currently under maintenance)
 - [Kitchen](https://hackerspaces.org/wiki/The_Kitchen_Pattern) &mdash; fridge, ~~freezer~~, dishwasher, microwave and toaster ovens
 - [Shower](https://hackerspaces.org/wiki/The_Shower_Pattern)
+
+## Organisational Form
+
+HackerspaceSG operates as a not-for-profit organisation. This means that like charities and other non-profits, we don't distribute profits to partners or shareholders. Any operating surplus will be directed at activities approved by HackerspaceSG administration.
+
+[HackerspaceSG was incorporated as a Pte Ltd for convenience](https://groups.google.com/g/hackerspacesg/c/X104A_CGnhs/). The legal entity, Hackerspace.SG Pte. Ltd., presently has one director and three shareholders.
+
+Our finances are transparent and reported at every [plenum](/plenum).
