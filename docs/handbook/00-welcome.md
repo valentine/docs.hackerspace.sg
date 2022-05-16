@@ -7,6 +7,7 @@ sidebar_position: 0
 ---
 
 * [About HackerspaceSG](about)
+* [Visiting The Space](visiting)
 * [Frequently Asked Questions](faq)
 * [Connect](connect)
 * [Around The Area](around-kgb)
