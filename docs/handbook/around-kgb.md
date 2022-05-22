@@ -1,6 +1,7 @@
 ---
 title: Around The Area
 description: A list of food places and other amenities around King George's Building, near Lavender and Bendemeer MRT stations.
+sidebar_position: 300
 ---
 
 Here are some food places and other amenities around the area.

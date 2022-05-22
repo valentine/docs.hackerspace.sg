@@ -1,6 +1,7 @@
 ---
 title: Hosting Events
 description: Hosting tech and maker community events at HackerspaceSG.
+sidebar_position: 600
 ---
 
 ## Event Organisers

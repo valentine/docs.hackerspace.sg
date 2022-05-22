@@ -1,6 +1,7 @@
 ---
 title: Visiting The Space
 description: Visiting our physical space at 336D King George's Avenue.
+sidebar_position: 200
 ---
 
 HackerspaceSG welcomes infrequent visitors and foreign travellers. We are usually open to guests whenever members are present.

@@ -8,9 +8,9 @@ sidebar_position: 0
 
 * [About HackerspaceSG](about)
 * [Visiting The Space](visiting)
-* [Frequently Asked Questions](faq)
-* [Connect](connect)
 * [Around The Area](around-kgb)
 * [Membership](membership)
 * [Payment Methods](payment)
 * [Hosting Events](hosting-events)
+* [Connect](connect)
+* [Frequently Asked Questions](faq)

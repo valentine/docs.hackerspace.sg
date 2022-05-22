@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 description: Frequently asked questions about HackerspaceSG.
+sidebar_position: 999
 ---
 
 ## I want to learn more about HackerspaceSG. How?

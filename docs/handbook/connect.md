@@ -1,6 +1,7 @@
 ---
 title: Connect
 description: How you can connect with the HackerspaceSG community.
+sidebar_position: 700
 ---
 
 ## Chat
