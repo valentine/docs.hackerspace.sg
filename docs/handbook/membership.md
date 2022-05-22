@@ -52,7 +52,27 @@ Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so th
 
 (Please refer to our [Visiting The Space](visiting) page for more information.)
 
-Complete the <a href="/membership/MembershipAgreement.pdf" target="_blank">membership form</a> and pass it to any member. You need two members to support your application.
+To sign up as a member:
+
+1. Read our [Terms of Use](terms), which you will have to explicitly agree to.
+1. Start a [recurring payment](payment) for your preferred membership tier on any of our payment platforms.
+1. Send an email[^1] to [membership@hackerspace.sg](mailto:membership@hackerspace.sg?subject=HackerspaceSG%20Membership) (optionally including proposing members in <abbr title="Carbon copy">cc</abbr>) in the following format:
+<!-- Markdown requires a tag to end a list -->
+
+```
+Name:
+Contact number:
+Mailing address:
+
+I acknowledge that I have carefully read all of the provisions of the
+HackerspaceSG Terms of Use as linked in https://hackerspace.sg/terms,
+fully understand the terms and conditions expressed there, and do freely
+choose acceptance of the provisions of the foregoing paragraphs relating
+to assumption of risk, release of liability, covenant not to sue, and
+third party indemnification.
+```
+
+We will process your membership, and send you an email with your 24/7 access credentials.
 
 We reserve the right to reject membership applications for any reason.
 
@@ -64,3 +84,4 @@ Please clear all personal belongings from your desk when you leave Hackerspace f
 
 HackerspaceSG will not be held responsible for any loss or damage of personal belongings.
 
+[^1]: We used to have a physical [membership form](https://hackerspace.sg/membership/MembershipAgreement.pdf), but are gradually deprecating it.
