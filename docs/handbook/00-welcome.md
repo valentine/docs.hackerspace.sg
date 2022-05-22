@@ -14,4 +14,5 @@ sidebar_position: 0
 * [Hosting Events](hosting-events)
 * [Connect](connect)
 * [Frequently Asked Questions](faq)
+* [HackerspaceSG Rules](rules)
 * [Terms Of Use](terms)
