@@ -40,7 +40,11 @@ _Great for: full-time students, NSFs, underemployed, unemployed._
 
 _^ HackerspaceSG is primarily member-run. To promote member involvement and financial inclusivity, you may use the space for more than 9 hours/week if you contribute your time towards HackerspaceSG maintenance duties. Community members should pledge 0.5 hours for every 8 additional hours of space use, and Concessionary members should pledge 1 hour for every 8 additional hours of space use._
 
-___
+### Membership Addons
+
+HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month.
+
+Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
 
 ## How do I sign up?
 
@@ -58,20 +62,5 @@ Members are invited to leave their stuff at the Hackerspace, with the understand
 
 Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Dedicated tier.) Please be considerate to fellow members and guests.
 
-___
-
-### Membership Addons
-
-HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month.
-
-Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
-
-___
-
-### Disclaimer of Responsibility
-
 HackerspaceSG will not be held responsible for any loss or damage of personal belongings.
 
-### Dealing with Old Hardware
-
-HackerspaceSG implements the [Old Hardware Pattern](/old-hardware/).
