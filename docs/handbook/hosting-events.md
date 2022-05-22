@@ -4,7 +4,7 @@ description: Hosting tech and maker community events at HackerspaceSG.
 sidebar_position: 600
 ---
 
-## Event Organisers
+## Event Organisers {#organiser}
 
 HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 
@@ -30,15 +30,15 @@ Use of the space by members who frequently work in the space for events relating
 To arrange an event:
 
 - If you're a member:
-	- Work through the [Hosting Member](#hosting-member) section below.
+	- Work through the [Hosting Member](#host) section below.
 - If you're not a member:
 	- You'll need to locate a member who is willing to host your event, which means that they are willing to take on everything described below.
-	- A good way to do this is usually to post to the [HackerspaceSG Google Group](https://groups.google.com/forum/#!forum/hackerspacesg).
+	- A good way to do this is usually to post to the [HackerspaceSG Google Group](https://groups.google.com/g/hackerspacesg).
 	- Note that it is not enough to find a member who acknowledges that your event is a good idea; you will need them to agree explicitly towards hosting your event and making the booking request with the event officers.
 	- Wait until your host confirms that they've booked a calendar slot before you invite your guests or announce HackerspaceSG as a venue.
-	- If you are planning to host events on a regular basis, please consider [becoming a member](/membership/).
+	- If you are planning to host events on a regular basis, please consider [becoming a member](membership).
 
-## Hosting Member
+## Hosting Member {#host}
 
 Whether you're hosting your own event or someone else's, you're taking on several specific responsibilities:
 
@@ -50,7 +50,7 @@ Please don't shirk these responsibilities. Putting other members in the situatio
 
 To host an event:
 
-- Locate a free spot on the [calendar](/calendar/) that is at least a week - preferably somewhat more than a week - from now
+- Locate a free spot on the [calendar](https://hackerspace.sg/calendar/) that is at least a week - preferably somewhat more than a week - from now
 - Email the [events officers](mailto:events@hackerspace.sg) requesting the slot:
 	1. Provide a title for the event
 	1. Provide a preferred date and time (if any) and intended duration of the event
@@ -90,7 +90,7 @@ To host an event:
 	  - If no members remain:
   		- Turn off air-conditioning and lights as you leave
 
-## Event Officers
+## Event Officers {#officer}
 
 - Before adding an event to the calendar, ensure that a specific member has undertaken to host the event:
 	- Don't accept event requests from someone other than the hosting member, even if they say "member X said he would host". Not only is it possible that X didn't undertake to host the event, it's also possible that X isn't clear on what's involved.
