@@ -14,3 +14,4 @@ sidebar_position: 0
 * [Hosting Events](hosting-events)
 * [Connect](connect)
 * [Frequently Asked Questions](faq)
+* [Terms Of Use](terms)
