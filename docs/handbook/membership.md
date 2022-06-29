@@ -58,17 +58,15 @@ _Great for: freelancers and small companies using the space daily during regular
 
 ### Community Member ($128 SGD/month)
 
-Occasional use of the space (around 9 hours a week)^. You cannot keep your stuff at a desk when you leave for the day.
+Occasional use of the space (around 9 hours a week). You cannot keep your stuff at a desk when you leave for the day.
 
 _Great for: occasional co-workers; people who come in after work or school to hang out._
 
 ### Concessionary Member ($64 SGD/month)
 
-If you earn under $2,500/month, all the benefits of Community membership, at a reduced rate. Occasional use of the space (around 9 hours a week)^. You cannot keep your stuff at a desk when you leave for the day.
+If you earn under $2,500/month, all the benefits of Community membership, at a reduced rate. Occasional use of the space (around 9 hours a week). You cannot keep your stuff at a desk when you leave for the day.
 
 _Great for: full-time students, NSFs, underemployed, unemployed._
-
-_^ HackerspaceSG is primarily member-run. To promote member involvement and financial inclusivity, you may use the space for more than 9 hours/week if you contribute your time towards HackerspaceSG maintenance duties. Community members should pledge 0.5 hours for every 8 additional hours of space use, and Concessionary members should pledge 1 hour for every 8 additional hours of space use._
 
 ### Membership Addons
 
