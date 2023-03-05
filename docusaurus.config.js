@@ -1,8 +1,11 @@
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
+// @ts-check
 
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const sb = require('./src/js/sidebars.js')
 
-module.exports = {
+/** @type {import('@docusaurus/types').Config} */
+const config = {
   title: 'docs.hackerspace.sg',
   tagline: 'All the HackerspaceSG docs!',
   url: 'https://docs.hackerspace.sg',
@@ -12,10 +15,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'hackerspacesg',
   projectName: 'docs.hackerspace.sg',
-  themeConfig: {
-    prism: {
-      theme: require('prism-react-renderer/themes/github'),
-    },
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  ({
     image: 'img/social.jpg',
     navbar: {
       title: 'HackerspaceSG',
@@ -99,23 +102,31 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Hackerspace.SG Pte Ltd and contributors.`,
     },
-  },
+    prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+    },
+  }),
+
   presets: [
     [
-      '@docusaurus/preset-classic',
-      {
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
         docs: false,
         blog: false,
-      },
+      }),
     ],
   ],
+
   plugins: [
     [
-      '@docusaurus/plugin-content-docs',
-      {
+      'content-docs',
+      /** @type {import('@docusaurus/plugin-content-docs').Options} */
+      ({
         id: 'handbook',
         path: 'docs/handbook',
         editUrl:
@@ -123,11 +134,12 @@ module.exports = {
         routeBasePath: 'handbook',
         sidebarPath: require.resolve('./docs/sidebars.handbook.js'),
         showLastUpdateTime: true,
-      },
+      }),
     ],
     [
-      '@docusaurus/plugin-content-docs',
-      {
+      'content-docs',
+      /** @type {import('@docusaurus/plugin-content-docs').Options} */
+      ({
         id: 'plenum',
         path: 'docs/plenum',
         editUrl:
@@ -142,7 +154,9 @@ module.exports = {
           const sidebarItems = await defaultSidebarItemsGenerator(args);
           return sb.popUnshiftItems(sb.reverseSidebarItems(sidebarItems));
         },
-      },
+      }),
     ],
   ],
 };
+
+module.exports = config;
