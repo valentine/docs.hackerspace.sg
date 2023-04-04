@@ -13,30 +13,29 @@ HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 - Interesting/unusual/offbeat thinkers
 - After-parties for events in the above areas held elsewhere
 
-The constraints are minimal:
+The standard price for events is **$256 SGD** for a 4-hour block, any time between 9 AM to 12 midnight. Events outside these hours may incur a surcharge. [Members](membership) may get up to 100% discount off the standard price.
 
-- A soft cap of 40 – 50 people, up to 60 people
-- Open to HackerspaceSG members who happen to be present[^2]
-- For more than 5 people: outside office hours (After 6PM on weekdays, all day on Saturday/Sunday)
-- Within the law[^3]
+Our main event room can fit around 30 people comfortably in theatre seating format, and up to 50 people maximum.
 
-Use of the space by members who frequently work in the space for events relating to their work (e.g. press conferences) is also permitted subject to the following additional constraints:
+All events must comply with Singapore law.[^2]
 
-- This type of use is occasional
-- This type of use does not crowd out events that are a closer fit to HackerspaceSG's purpose (e.g. when the schedule is crowded)
-- The event is not something that members would find objectionable (e.g. MLM seminars)
-- The event does not impede member use of the space (i.e. no exclusive room bookings)
+### Booking The Space
 
-To arrange an event:
+To book the space, email events@hackerspace.sg.
 
-- If you're a member:
-	- Work through the [Hosting Member](#host) section below.
-- If you're not a member:
-	- You'll need to locate a member who is willing to host your event, which means that they are willing to take on everything described below.
-	- A good way to do this is usually to post to the [HackerspaceSG Google Group](https://groups.google.com/g/hackerspacesg).
-	- Note that it is not enough to find a member who acknowledges that your event is a good idea; you will need them to agree explicitly towards hosting your event and making the booking request with the event officers.
-	- Wait until your host confirms that they've booked a calendar slot before you invite your guests or announce HackerspaceSG as a venue.
-	- If you are planning to host events on a regular basis, please consider [becoming a member](membership).
+### Membership Discount
+
+To enjoy a membership discount, the event must fall within the following guidelines:
+
+- Be mostly open to the public
+- Be of interest to any of the tech, design, hacker, or maker communities
+- Be not-for-profit
+- For more than 5 people: be outside office hours (After 6PM on weekdays, all day on Saturday/Sunday)
+- Ticket sales at token prices (<$10) to ensure attendance are generally allowed
+
+We aim to apply the full 100% membership discount to most events that fall within our interests and the above guidelines.
+
+If your event is part of, or is sponsored by a large organisation that has an event or marketing budget, we may ask to invoice the organisation to cover our operational costs.
 
 ## Hosting Member {#host}
 
@@ -66,7 +65,7 @@ To host an event:
 		- Arrange furniture as required. Please do this quietly if it's still office hours, in consideration of our neighbours downstairs.
   - Holding the event:
   	- Welcome guests as they arrive
-  	- When you're ready to start, welcome everyone to Hackerspace, explain a little about what we do, invite guests to make use of our drinks supply and make contributions. If you are unclear on what to say, perhaps say something like:
+  	- When you're ready to start, welcome everyone to Hackerspace, explain a little about what we do. If HackerspaceSG is sponsoring the venue, please do invite guests to make use of our drinks supply and make contributions. If you are unclear on what to say, perhaps say something like:
 
     > Welcome to HackerspaceSG!
     >
@@ -76,7 +75,7 @@ To host an event:
     >
     > 2) Provide a co-working space.
     >
-    > We don't charge for hosting events, however if you like what we're doing - and particularly if you would like to host events here yourself - we encourage you to consider becoming a member. Details are on the website.
+    > HackerspaceSG is the venue sponsor for this event. If you like what we're doing - and particularly if you would like to host events here yourself - we encourage you to consider becoming a member, or making a regular contribution. Details may be found on our website at hackerspace.sg.
     >
     > We aren't licensed to sell food and beverages, however we do make our stock of drinks available to visitors and encourage donations; suggested contributions are listed on the tipjars near the fridge.
 
@@ -96,20 +95,18 @@ To host an event:
 	- Don't accept event requests from someone other than the hosting member, even if they say "member X said he would host". Not only is it possible that X didn't undertake to host the event, it's also possible that X isn't clear on what's involved.
 	- Ensure that the host has understood the responsibilities described above and is willing to carry them out. At the very least, ensure that they're planning to be present throughout the event, plus about a half hour at the beginning and end of the events.
 	- Unless you personally are willing to host, advise non-member organisers to find a host and to have the host make the request. You are free to decide to host of course, but please don't accept bookings for events with no host and **then** asking the mailing list for a volunteer to host.
-- Err on the side of inclusiveness. A large part of HackerspaceSG's approach from the outset has been to be an inclusive as reasonably possible. If an event is even remotely related to the areas listed above, then the request should probably be accepted, subject to calendar availability.
+- For not-for-profit community events, err on the side of inclusiveness. A large part of HackerspaceSG's approach from the outset has been to be an inclusive as reasonably possible. If an event is even remotely related to the areas listed above, then the request should probably be accepted at the full membership discount, subject to calendar availability.
 	- If there are concerns about events that appear to be of questionable legality, discuss it with HackerspaceSG's directors.
-	- If there are concerns about an event being potentially objectionable, discuss it on the Google Group **before** committing a calendar slot. Until/unless specific guidelines are adopted, please don't decline an event request on the basis of your own personal response to the event being proposed.
+	- If there are concerns about an event falling outside the above guidelines, or being potentially objectionable, discuss it on any of our [channels](connect) (preferably our Telegram group chat) **before** committing a calendar slot.
 	- (Note to event organisers/hosts who are reading along: this does not mean that event officers are obliged to accept your request unless they can convince you that they shouldn't. HackerspaceSG reserves the right to decline event requests without explanation.)
-- If the organisers have not already created a Facebook event page for the event, offer to create an event on the [HackerspaceSG page](https://www.facebook.com/HackerspaceSG). If they accept, create the event and include the link in the calendar entry.
+- If the organisers have not already created a Facebook or Meetup event page for the event, offer to create an event on both the [Facebook page](https://www.facebook.com/HackerspaceSG), and the [Meetup.com group](https://www.meetup.com/hackerspace-sg/). If they accept, create the event and include the link in the calendar entry.
 
 [^1]: "[Hacking](http://www.catb.org/jargon/html/H/hacker.html)" meaning ingenuity or playful cleverness, not criminal activity.
 
-[^2]: We may consider closed events in extraordinary cases, but the answer will almost always be no.
+[^2]: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
 
-[^3]: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
+[^3]: Please volunteer your undertaking to be host for the event when requesting the booking, rather than putting the events officers in the position of having to press you for it.
 
-[^4]: Please volunteer your undertaking to be host for the event when requesting the booking, rather than putting the events officers in the position of having to press you for it.
+[^4]: This is particularly about what happens if you're late arriving and attendees start turning up. If you're not willing to make this information public then please reconsider being an event host. TODO: Some members may not be comfortable with this; further discussion on making it possible for members in the space to immediately contact an absent/delayed host may be warranted.
 
-[^5]: This is particularly about what happens if you're late arriving and attendees start turning up. If you're not willing to make this information public then please reconsider being an event host. TODO: Some members may not be comfortable with this; further discussion on making it possible for members in the space to immediately contact an absent/delayed host may be warranted.
-
-[^6]: You don't want kittens to die, do you?
+[^5]: You don't want kittens to die, do you?

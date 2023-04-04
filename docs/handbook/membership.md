@@ -42,7 +42,7 @@ We reserve the right to reject membership applications for any reason.
 - 24/7 access to the space
 - Keep your stuff in a locker or designated storage box (additional subscription applies) 
 - Use the workbench and hardware tools
-- Host community meetups, workshops, and other events at the space
+- [Host community meetups, workshops, and other events](hosting-events) at the space, mostly for free
 - Borrow books from our library
 
 ## Membership Tiers {#tiers}
