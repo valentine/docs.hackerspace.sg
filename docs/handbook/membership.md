@@ -12,7 +12,7 @@ Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so th
 
 To sign up as a member:
 
-1. Read our [Terms of Use](terms), which you will have to explicitly agree to.
+1. Read our [Terms of Use](terms) and [Rules](rules), which you will have to explicitly agree to.
 1. Start a [recurring payment](payment) for your preferred [membership tier](#tiers) on any of our payment platforms.
 1. Send an email[^1] to [membership@hackerspace.sg](mailto:membership@hackerspace.sg?subject=HackerspaceSG%20Membership) (optionally including proposing members in <abbr title="Carbon copy">cc</abbr>) in the following format:
 <!-- Markdown requires a tag to end a list -->
@@ -28,6 +28,9 @@ fully understand the terms and conditions expressed there, and do freely
 choose acceptance of the provisions of the foregoing paragraphs relating
 to assumption of risk, release of liability, covenant not to sue, and
 third party indemnification.
+
+I also acknowledge that I have read and understand the HackerspaceSG Rules
+as linked in https://hackerspace.sg/rules.
 ```
 
 We will process your membership, and send you an email with your 24/7 access credentials.
