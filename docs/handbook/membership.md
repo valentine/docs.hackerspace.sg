@@ -49,13 +49,13 @@ We reserve the right to reject membership applications for any reason.
 
 ### Dedicated Member ($512 SGD/month)
 
-A dedicated desk for co-working. You can keep your stuff at your desk. We'll label a desk with your name, in honour of your contribution.
+A dedicated desk for co-working. You can keep your stuff at your desk. "Unlimited"[^2] use of the space. We'll label a desk with your name, in honour of your contribution.
 
 _Great for: people who really want to support the space; people who have lots of stuff; people who like their multi-monitor setups._
 
 ### Co-working Member ($256 SGD/month)
 
-Unlimited use of the space. You cannot keep your stuff at a desk when you leave for the day.
+"Unlimited"[^2] use of the space. You cannot keep your stuff at a desk when you leave for the day.
 
 _Great for: freelancers and small companies using the space daily during regular business hours._
 
@@ -104,3 +104,5 @@ Please clear all personal belongings from your desk when you leave Hackerspace f
 HackerspaceSG will not be held responsible for any loss or damage of personal belongings.
 
 [^1]: We used to have a physical [membership form](https://hackerspace.sg/membership/MembershipAgreement.pdf), but are gradually deprecating it.
+
+[^2]: "Unlimited" means a normal working schedule of 10–12 hours a day, though we won't kick up a fuss if you go over by a little. Members are generally [not allowed to use the space as a residence](rules#overnight).
