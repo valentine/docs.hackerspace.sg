@@ -1,7 +1,6 @@
 // @ts-check
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer').themes.github;
+const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 const sb = require('./src/js/sidebars.js')
 
 /** @type {import('@docusaurus/types').Config} */
@@ -16,6 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'hackerspacesg',
   projectName: 'docs.hackerspace.sg',
+
+  markdown: {
+    format: 'detect',
+  },
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
