@@ -18,13 +18,18 @@ sidebar_position: 700
 
 ## Social media {#social}
 
-### Twitter
+### X (formerly known as Twitter) {#twitter}
 
 * [@hackerspacesg](https://twitter.com/hackerspacesg)
 
 ### Facebook
+
 * [Facebook page](https://www.facebook.com/hackerspacesg), mostly for announcements.
 * [Facebook group](https://www.facebook.com/groups/hackerspacesg/), where you can post discussions and questions about anything that might be of interest to hackers.
+
+### LinkedIn
+
+* [LinkedIn page](https://www.linkedin.com/company/hackerspacesg/)
 
 ## Email
 
