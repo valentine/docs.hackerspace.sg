@@ -21,18 +21,13 @@ We aim to meet on the third Tuesday of every month, usually at 8pm SGT, subject 
 
 ## Future Planned Plenums
 
-* [2022-06-29](./2022-06-29/)
-* 2022-07-19
-* 2022-08-16
-* 2022-09-20
-* 2022-10-18
-* 2022-11-15
-* 2022-12-20
+* [2024-06-05](./2024-06-05/)
 
 Note that the dates are tentative and subject to change.
 
 ## Past Plenum Minutes
 
+* [2022-06-29](./2022-06-29/) (_to be updated_)
 * [2022-05-24](./2022-05-24/)
 * [2022-03-15](./2022-03-15/)
 * [2021-09-21](./2021-09-21/)
