@@ -6,7 +6,7 @@ sidebar_position: 400
 
 ## How do I sign up?
 
-Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so that we can know you better, and so that you are sure that you really want to be part of the community.
+Drop by HackerspaceSG and get to know us. Hang out with us for a few days, just so that we can know you better, and so that you are sure that you really want to be part of the community.
 
 (Please refer to our [Visiting The Space](visiting) page for more information.)
 
@@ -16,6 +16,8 @@ To sign up as a member:
 1. Start a [recurring payment](payment) for your preferred [membership tier](#tiers) on any of our payment platforms.
 1. Send an email[^1] to [membership@hackerspace.sg](mailto:membership@hackerspace.sg?subject=HackerspaceSG%20Membership) (optionally including proposing members in <abbr title="Carbon copy">cc</abbr>) in the following format:
 <!-- Markdown requires a tag to end a list -->
+
+We ask former members looking to rejoin to also re-read and agree to the Terms of Use and HackerspaceSG Rules by sending in the email again.
 
 ```
 Name:
@@ -33,7 +35,7 @@ I also acknowledge that I have read and understand the HackerspaceSG Rules
 as linked in https://hackerspace.sg/rules.
 ```
 
-We will process your membership, and send you an email with your 24/7 access credentials.
+After receiving your email, we will process your membership. We will then send you an email with your 24/7 access credentials. Your subscription term will start when you receive your access credentials.
 
 We reserve the right to reject membership applications for any reason.
 
@@ -42,7 +44,7 @@ We reserve the right to reject membership applications for any reason.
 - 24/7 access to the space
 - Keep your stuff in a locker or designated storage box (additional subscription applies) 
 - Use the workbench and hardware tools
-- [Host community meetups, workshops, and other events](hosting-events) at the space, mostly for free
+- Host community meetups, workshops, and other events at the space
 - Borrow books from our library
 
 ## Membership Tiers {#tiers}
