@@ -9,7 +9,6 @@ const config = {
   tagline: 'All the HackerspaceSG docs!',
   url: 'https://docs.hackerspace.sg',
   baseUrl: '/',
-  trailingSlash: true,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
