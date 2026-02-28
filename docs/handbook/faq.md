@@ -8,13 +8,13 @@ sidebar_position: 999
 
 Join the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Lurk for a while, then engage in discussions. Optionally, write a short email to introduce yourself.
 
-You may also drop by any time members are around, especially when an [event](/calendar) is happening.
+You may also drop by any time members are around, especially when an [event](https://hackerspace.sg/events) is happening.
 
 ## I'd like to visit Hackerspace. Do I need to make an appointment?
 
 No. Just drop by. There are usually people around between noon and midnight. Your best bet is during [Hackerspace Hours](https://hackerspace.sg/events) (Tue & Thu, 7–11pm) or on a First Tuesday open night.
 
-If you want to get your time and money's worth, come when an event is taking place. Check the [calendar](https://hackerspace.sg/events).
+If you want to get your time and money's worth, come when an event is taking place. Check the [events calendar](https://hackerspace.sg/events).
 
 ## Do you guys, like, break into websites and steal passwords and Bitcoins and stuff?
 
@@ -30,7 +30,7 @@ By the way, this may not be obvious to you since you're too close to the situati
 
 Tech startups are welcome at HackerspaceSG. Non-tech startups might be more comfortable at a [commercial co-working space](https://e27.co/surviving-in-the-jungle-of-singapores-co-working-space-20140708/).
 
-<a href="#organisational-partnering-enquiries" name="organisational-partnering-enquiries"><h2>Organisational / Partnering Enquiries</h2></a>
+## Organisational / Partnering Enquiries {#organisational-partnering-enquiries}
 
 We get a variety of enquiries from organisations who are looking to partner with us on various things. This is generally not feasible because HackerspaceSG has a rather unusual structure: **we have no employees**. Really none, not even a general manager. Almost everything that happens in HackerspaceSG happens at the personal initiative of one or more members, rather than of HackerspaceSG's non-existent management. (As a private limited company we do have directors of course, however they are all rather busy with other things.)
 

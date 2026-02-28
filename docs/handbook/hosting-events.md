@@ -49,7 +49,7 @@ Please don't shirk these responsibilities. Putting other members in the situatio
 
 To host an event:
 
-- Locate a free spot on the [calendar](https://hackerspace.sg/calendar/) that is at least a week - preferably somewhat more than a week - from now
+- Locate a free spot on the [events calendar](https://hackerspace.sg/events) that is at least a week - preferably somewhat more than a week - from now
 - Email the [events officers](mailto:events@hackerspace.sg) requesting the slot:
 	1. Provide a title for the event
 	1. Provide a preferred date and time (if any) and intended duration of the event
