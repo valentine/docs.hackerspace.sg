@@ -5,13 +5,7 @@ sidebar_position: 300
 slug: around-textile-centre
 ---
 
-Here are some food places and other amenities around the area.
-
-:::note
-
-This page was originally written for our King George's Building location. We're updating it for Textile Centre — many of the same places are still nearby. Contributions welcome via [pull request](https://github.com/hackerspacesg/docs.hackerspace.sg).
-
-:::
+Here are some food places and other amenities around the area. Contributions welcome via [pull request](https://github.com/hackerspacesg/docs.hackerspace.sg).
 
 ## Food
 
