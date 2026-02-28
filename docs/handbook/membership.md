@@ -4,6 +4,14 @@ description: Support HackerspaceSG with a monthly membership subscription.
 sidebar_position: 400
 ---
 
+HackerspaceSG is a community of hackers, makers, and tinkerers — a third place where you go to be around people who get you. Membership gives you 24/7 access to the space and a voice in how it's run.
+
+:::tip Not sure about membership?
+
+[Become a supporter for $1/day](https://hackerspace.sg/support) and hang out in the evenings. No commitment beyond that.
+
+:::
+
 ## How do I sign up?
 
 Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so that we can know you better, and so that you are sure that you really want to be part of the community.

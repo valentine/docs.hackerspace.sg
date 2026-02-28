@@ -15,7 +15,7 @@ HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 
 The standard price for events is **$256 SGD** for a 4-hour block, any time between 9 AM to 12 midnight. Events outside these hours may incur a surcharge. [Members](membership) may get up to 100% discount off the standard price.
 
-Our main event room can fit around 30 people comfortably in theatre seating format, and up to 50 people maximum.
+Our main event room can fit around 20 people comfortably in theatre seating format.
 
 All events must comply with Singapore law.[^2]
 

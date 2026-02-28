@@ -1,14 +1,14 @@
 ---
 title: Visiting The Space
-description: Visiting our physical space at 336D King George's Avenue.
+description: Visiting our physical space at Textile Centre, Singapore.
 sidebar_position: 200
 ---
 
-We welcome potential members and supporters, as well as foreign travellers (bonus points if you’re a member of another hackerspace).
+We welcome potential members and supporters, as well as foreign travellers (bonus points if you're a member of another hackerspace).
 
-If you would like to visit HackerspaceSG but do not know a member, please let us know via [Telegram](https://t.me/HackerspaceSG), [Facebook](https://facebook.com/hackerspacesg), [IRC](irc://irc.libera.chat/hackerspacesg) (response might be slow), or the [mailing list](https://groups.google.com/g/hackerspacesg/).
+If you would like to visit HackerspaceSG but do not know a member, please let us know via [Telegram](https://t.me/HackerspaceSG), [Facebook](https://facebook.com/hackerspacesg), or the [mailing list](https://groups.google.com/g/hackerspacesg/).
 
-Alternatively, drop by whenever we are hosting a public meetup or workshop at the space.
+Alternatively, drop by whenever we are hosting a public meetup or workshop at the space, or on a **First Tuesday** open night (first Tuesday of every month).
 
 ## Location
 
@@ -25,3 +25,12 @@ The nearest MRT stations are:
 Textile Centre is also walkable from:
 - [Jalan Besar MRT station](https://landtransportguru.net/jalan-besar-station/) on the [Downtown Line](https://landtransportguru.net/train/dtl/) (~11 mins); and
 - [Farrer Park MRT station](https://landtransportguru.net/farrer-park-station/) on the [North-East Line](https://landtransportguru.net/train/nel/) (~16 mins).
+
+## When to Visit
+
+HackerspaceSG is open 24/7 for members. Visitors are welcome when members are around — usually between noon and midnight.
+
+Your best bets:
+- **First Tuesday** of every month — open night, anyone can drop in
+- **Hackerspace Hours** (Tue & Thu, 7–11pm) — guaranteed someone's hosting
+- During a [scheduled event](https://hackerspace.sg/events)

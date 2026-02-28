@@ -12,9 +12,9 @@ You may also drop by any time members are around, especially when an [event](/ca
 
 ## I'd like to visit Hackerspace. Do I need to make an appointment?
 
-No. Just drop by. There are usually people around between noon and midnight.
+No. Just drop by. There are usually people around between noon and midnight. Your best bet is during [Hackerspace Hours](https://hackerspace.sg/events) (Tue & Thu, 7–11pm) or on a First Tuesday open night.
 
-If you want to get your time and money's worth, come when an event is taking place. Check the [calendar](/calendar).
+If you want to get your time and money's worth, come when an event is taking place. Check the [calendar](https://hackerspace.sg/events).
 
 ## Do you guys, like, break into websites and steal passwords and Bitcoins and stuff?
 
