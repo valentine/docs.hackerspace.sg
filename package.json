@@ -13,14 +13,14 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "ci": "yarn lint && yarn format:diff",
-    "lint": "eslint --cache \"**/*.js\" && stylelint \"**/*.css\"",
-    "format": "prettier --config .prettierrc.yml --write \"**/*.{js,jsx,ts,tsx,md,mdx}\"",
-    "format:diff": "prettier --config .prettierrc.yml --list-different \"**/*.{js,jsx,ts,tsx,md,mdx}\""
+    "ci": "biome ci .",
+    "lint": "biome lint .",
+    "format": "biome format --write .",
+    "format:diff": "biome format ."
   },
   "dependencies": {
-    "@docusaurus/core": "3.7.0",
-    "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/core": "3.9.2",
+    "@docusaurus/preset-classic": "3.9.2",
     "@mdx-js/react": "^3.1.0",
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.4.1",
@@ -28,16 +28,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "eslint": "<9",
-    "@babel/eslint-parser": "^7.26.8",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^10.0.1",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-jsx-a11y": "^6.10.2",
-    "eslint-plugin-react": "^7.37.4",
-    "eslint-plugin-react-hooks": "^5.1.0",
-    "prettier": "^3.5.1",
-    "stylelint": "^16.14.1"
+    "@biomejs/biome": "2.4.6"
   },
   "browserslist": {
     "production": [
