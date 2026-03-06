@@ -19,6 +19,12 @@ One of our goals is to make HackerspaceSG more accessible, especially for people
 
 We're looking for **reliable** and **responsible** people who want to give back, be involved, and be a net positive to the space — helping in small or big ways to keep it friendly, tidy, and running smoothly.
 
+### A note on fit
+
+Barter Membership isn't for everyone, and we're selective about who we take on. Because Barter Members represent HackerspaceSG to visitors and guests — often as the first face someone sees — we look for people who are self-aware, personable, and comfortable taking initiative. You'll be trusted with keys to the space and responsibility for the people in it.
+
+We'll have an in-person chat before onboarding to make sure it's a good fit on both sides. It's OK if it's not — there are other ways to be part of the community.
+
 ## The Real Goal: Making HSG Part of Your Week
 
 The Barter Membership isn't just about filling shifts. It's about building a habit — making HackerspaceSG a regular part of your weekly routine, the way a gym or a favourite café becomes part of your life.
@@ -131,8 +137,11 @@ Not everyone follows this path, and that's fine. But the Barter Members who stic
 
 1. Message **HackerspaceSG Admin** on Telegram
 2. Tell us a bit about yourself and your availability
-3. We'll arrange a quick **in-person chat**
-4. If it's a good fit, we'll onboard you and give you access to the shared calendar
+3. We'll arrange a quick **in-person chat** — this is where we get to know each other and see if it's a good fit
+4. If it works for both sides, we'll start a 1–2 week supervised trial
+5. After the trial, we'll onboard you and give you access to the shared calendar
+
+We don't accept every application, and that's nothing personal. We're a small space with a small community, and the people who represent us to visitors need to be the right match. If it doesn't work out, you're always welcome as a supporter or member.
 
 [^1]: Unlimited access means you can come and go any time, _up to_ 16 hours a day. You can't live out of the space — though we get it if there's an occasional deadline.
 

@@ -48,10 +48,12 @@ We reserve the right to reject membership applications for any reason.
 ## Membership Benefits
 
 - 24/7 access to the space
+- Access to the coworking room
 - Keep your stuff in a locker or designated storage box (additional subscription applies) 
 - Use the workbench and hardware tools
 - [Host community meetups, workshops, and other events](hosting-events) at the space, mostly for free
 - Borrow books from our library
+- Purchase add-ons (shelf storage, lockers, business address subscriptions)
 
 ## Membership Tiers {#tiers}
 
@@ -69,15 +71,45 @@ _Great for: freelancers and small companies using the space daily during regular
 
 ### Community Member ($128 SGD/month)
 
-Occasional use of the space (around 9 hours a week). You cannot keep your stuff at a desk when you leave for the day.
+Occasional use of the space (around 18 hours a week). You cannot keep your stuff at a desk when you leave for the day.
 
 _Great for: occasional co-workers; people who come in after work or school to hang out._
 
 ### Concessionary Member ($64 SGD/month)
 
-If you earn under $2,500/month, all the benefits of Community membership, at a reduced rate. Occasional use of the space (around 9 hours a week). You cannot keep your stuff at a desk when you leave for the day.
+If you earn under $2,500/month, all the benefits of Community membership, at a reduced rate. Occasional use of the space (around 9 hours a week), including daytime access. You cannot keep your stuff at a desk when you leave for the day.
 
-_Great for: full-time students, NSFs, underemployed, unemployed._
+_Great for: full-time students, NSFs, entrepreneurs just starting out, underemployed, unemployed._
+
+### Supporter ($365 SGD/year)
+
+Support HackerspaceSG for $1/day. Supporters get access to the space from 7pm to 11pm daily — the social hours when the kampong comes alive. Your name goes on the digital Supporter Wall, and you get a monthly update email.
+
+Supporters cannot purchase storage, lockers, or business address subscriptions. These add-ons are exclusive to members ($128/month and above).
+
+This isn't a membership in the traditional sense — it's a way to say "I believe this place should exist." You don't need to show up. Your dollar keeps the lights on.
+
+_Great for: alumni, friends of the space, anyone who believes Singapore's hackerspace should keep going._
+
+### Barter Membership ($0, shifts for access)
+
+Trade time and effort for 24/7 access. Barter Members commit to regular shifts — hosting visitors, maintaining hardware, or keeping the space tidy. This is a fair exchange with expectations on both sides.
+
+See the [Barter Membership page](https://hackerspace.sg/barter) for details.
+
+_Great for: people who'd prefer to trade time for space access._
+
+### All Tiers at a Glance
+
+| | Supporter | Community | Co-working | Dedicated |
+|---|---|---|---|---|
+| **Price** | $365/year | $128/month | $256/month | $512/month |
+| **Access hours** | 7pm–11pm daily | 18hrs/week, 24/7 | Unlimited, 24/7 | Unlimited, 24/7 |
+| **Daytime access** | ❌ | ✅ | ✅ | ✅ |
+| **Coworking room** | ❌ | ✅ | ✅ | ✅ |
+| **Dedicated desk** | ❌ | ❌ | ❌ | ✅ |
+| **Storage & add-ons** | ❌ | 44L + purchasable | 88L + purchasable | 176L + purchasable |
+| **Who it's for** | Believers | After-work regulars | Daily freelancers | Power users |
 
 ### Membership Addons
 

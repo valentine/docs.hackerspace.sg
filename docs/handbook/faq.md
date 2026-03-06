@@ -14,6 +14,8 @@ You may also drop by any time members are around, especially when an [event](htt
 
 No. Just drop by. There are usually people around between noon and midnight. Your best bet is during [Hackerspace Hours](https://hackerspace.sg/events) (Tue & Thu, 7–11pm) or on a First Tuesday open night.
 
+If you want to use a desk or the hardware tools, you'll need a Desk Pass ($16/day). Desk pass access is by appointment only and depends on the availability of a member to host — please arrange your visit in advance via [Telegram](https://t.me/HackerspaceSG) or email.
+
 If you want to get your time and money's worth, come when an event is taking place. Check the [events calendar](https://hackerspace.sg/events).
 
 ## Do you guys, like, break into websites and steal passwords and Bitcoins and stuff?
