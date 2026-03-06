@@ -109,6 +109,7 @@ _Great for: people who'd prefer to trade time for space access._
 | **Coworking room** | ❌ | ✅ | ✅ | ✅ |
 | **Dedicated desk** | ❌ | ❌ | ❌ | ✅ |
 | **Storage & add-ons** | ❌ | 44L + purchasable | 88L + purchasable | 176L + purchasable |
+| **Host events** | With 4 supporters/members | ✅ | ✅ | ✅ |
 | **Who it's for** | Believers | After-work regulars | Daily freelancers | Power users |
 
 ### Membership Addons

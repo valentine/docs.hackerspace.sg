@@ -17,6 +17,10 @@ The standard price for events is **$256 SGD** for a 4-hour block, any time betwe
 
 Our main event room can fit around 20 people comfortably in theatre seating format.
 
+### Minimum Attendance
+
+Events hosted by **supporters** require at least **4 supporters or members** in attendance (including the host). Members can host events on their own, as has always been the case.
+
 All events must comply with Singapore law.[^2]
 
 ### Booking The Space
